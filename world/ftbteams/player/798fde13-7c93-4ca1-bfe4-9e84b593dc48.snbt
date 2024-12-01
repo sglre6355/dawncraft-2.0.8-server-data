@@ -1,0 +1,15 @@
+{
+	id: "798fde13-7c93-4ca1-bfe4-9e84b593dc48"
+	type: "player"
+	player_name: "imo7koma"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "imo7koma"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59BA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

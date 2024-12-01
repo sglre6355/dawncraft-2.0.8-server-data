@@ -1,0 +1,15 @@
+{
+	id: "09e93c7c-6e4a-40f3-ada7-cb0f43436c57"
+	type: "player"
+	player_name: "Kyopu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Kyopu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#598DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
