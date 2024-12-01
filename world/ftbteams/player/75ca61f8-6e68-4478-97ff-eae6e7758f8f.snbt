@@ -1,0 +1,15 @@
+{
+	id: "75ca61f8-6e68-4478-97ff-eae6e7758f8f"
+	type: "player"
+	player_name: "_Reqto"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "_Reqto"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5965FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
